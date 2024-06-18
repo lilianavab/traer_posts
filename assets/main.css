@@ -1,0 +1,17 @@
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 600px;
+  }
+
+  #data {
+    margin-top: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+
+  #data li {
+    margin-bottom: 5px;
+  }
